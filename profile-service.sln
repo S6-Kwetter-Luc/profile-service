@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "profile-service", "profile-service\profile-service.csproj", "{516C9C7D-0820-4F03-AAF6-7CE0D485DED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "profile-service-test", "profile-service-test\profile-service-test.csproj", "{A469B5BA-4EB8-4DDC-8770-5D3653E1BE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516C9C7D-0820-4F03-AAF6-7CE0D485DED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516C9C7D-0820-4F03-AAF6-7CE0D485DED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516C9C7D-0820-4F03-AAF6-7CE0D485DED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516C9C7D-0820-4F03-AAF6-7CE0D485DED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A469B5BA-4EB8-4DDC-8770-5D3653E1BE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A469B5BA-4EB8-4DDC-8770-5D3653E1BE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A469B5BA-4EB8-4DDC-8770-5D3653E1BE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A469B5BA-4EB8-4DDC-8770-5D3653E1BE27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
